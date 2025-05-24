@@ -32,7 +32,8 @@ This space will be my digital diary, capturing every learning, challenge, and ac
 | 5    | Weekly Assignment 5 | ⏳ Planned | *(coming soon)* |
 | 6    | Weekly Assignment 6 | ⏳ Planned | *(coming soon)* |
 | 7    | Weekly Assignment 7 | ⏳ Planned | *(coming soon)* |
-| 8    | Final Project       | ⏳ Planned | *(coming soon)* |
+| 8    | Weekly Assingment 8 | ⏳ Planned | *(coming soon)* |
+| 9    | Final Project       | ⏳ Planned | *(coming soon)* |
 
 *Check back for weekly updates!*
 
