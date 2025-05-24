@@ -21,12 +21,6 @@ This space will be my digital diary, capturing every learning, challenge, and ac
 
 ---
 
-## 🎬 Quick Glimpse
-
-![CSI GIF](./CSI%20GIF.gif)
-
----
-
 ## 📅 Weekly Progress
 
 | Week | Assignment / Project | Status | Link |
@@ -66,25 +60,18 @@ This repository will serve as:
 
 Feel free to reach out or follow my journey:
 
+- [Email](mailto:devangsharma.developer@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devangbhardwaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devang-bhardwaj)
 
-- [Email](mailto:devangsharma.developer@gmail.com)
 ---
 
 > *“Every week is a new opportunity to learn, build, and leave a mark.”*
 
 ---
 
-<div align="center">
-  <img src="./CSI LinkedIn Coverpage.jpg" width="60%" alt="Celebal Internship Cover"/>
-</div>
-
-![CSI GIF](./CSI%20GIF.gif)
-
-<div align="center">
-  ![CSI GIF](./CSI%20GIF.gif), width="60%" alt="Celebal Internship Cover"
-</div>
+![CSI GIF](./CSI%60GIF.gif)
 
 ---
 
