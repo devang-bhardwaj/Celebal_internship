@@ -17,7 +17,7 @@ This space will be my digital diary, capturing every learning, challenge, and ac
   - Final Project  
   - Notes, insights, and more!
 - **Reference:**  
-  - [My Offer Letter (PDF)](./Devang%20Bhardwaj's_Offer_letter%20(1).pdf)
+  - [My Offer Letter (PDF)](.Devang%20Bhardwaj's%20Offer%20letter.pdf)
 
 ---
 
