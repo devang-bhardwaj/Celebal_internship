@@ -71,7 +71,7 @@ Feel free to reach out or follow my journey:
 
 ---
 
-![CSI GIF](./CSI%60GIF.gif)
+![CSI GIF](./CSI%20GIF.gif)
 
 ---
 
