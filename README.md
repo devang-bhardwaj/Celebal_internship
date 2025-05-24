@@ -72,7 +72,7 @@ Feel free to reach out or follow my journey:
 ---
 
 <div align="center">
-  <img src="./CSI%20GIF.gif" width="60%" alt="CSI GIF"/>
+  <img src="./CSI%20GIF.gif" width="50%" alt="CSI GIF"/>
 </div>
 
 ---
