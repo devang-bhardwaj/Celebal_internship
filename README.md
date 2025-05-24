@@ -80,6 +80,12 @@ Feel free to reach out or follow my journey:
   <img src="./CSI LinkedIn Coverpage.jpg" width="60%" alt="Celebal Internship Cover"/>
 </div>
 
+![CSI GIF](./CSI%20GIF.gif)
+
+<div align="center">
+  ![CSI GIF](./CSI%20GIF.gif), width="60%" alt="Celebal Internship Cover"
+</div>
+
 ---
 
 <div align="center">
