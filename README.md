@@ -67,11 +67,13 @@ Feel free to reach out or follow my journey:
 
 ---
 
-> *“Every week is a new opportunity to learn, build, and leave a mark.”*
+> *"Every week is a new opportunity to learn, build, and leave a mark."*
 
 ---
 
-![CSI GIF](./CSI%20GIF.gif)
+<div align="center">
+  <img src="./CSI%20GIF.gif" width="60%" alt="CSI GIF"/>
+</div>
 
 ---
 
