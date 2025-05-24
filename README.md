@@ -1,78 +1,84 @@
 # 🚀 My Celebal Technologies Internship Journey
 
-![Celebal Technologies Cover Image](./media/celebal_cover.gif)
+![Celebal LinkedIn Cover](./CSI%20LinkedIn%20Coverpage.jpg)
 
-## 👋 Welcome to My Internship Portfolio
+Welcome to my **Celebal Technologies Internship** repository!  
+This space will be my digital diary, capturing every learning, challenge, and accomplishment during my **8-week internship** at Celebal Technologies.
 
-This repository documents my 8-week internship experience at **Celebal Technologies** from May to July 2025. Here, you'll find all my weekly assignments, projects, learnings, and the final capstone project.
+---
 
-## 📋 About The Internship
+## 🌟 About This Repo
 
-I've joined Celebal Technologies as a Summer Intern for an 8-week intensive program. During this period, I'll be working on various data science and machine learning projects, enhancing my skills in:
+- **Internship Duration:** 2 months (8 weeks)
+- **Organization:** [Celebal Technologies](https://www.celebaltech.com/)
+- **Role:** Intern
+- **Contents:**  
+  - Weekly Assignments  
+  - Final Project  
+  - Notes, insights, and more!
+- **Reference:**  
+  - [My Offer Letter (PDF)](./Devang%20Bhardwaj's_Offer_letter%20(1).pdf)
 
-- Data Analysis & Visualization
-- Machine Learning Algorithms
-- Deep Learning
-- Cloud Computing
-- Real-world Problem Solving
+---
 
-## 📚 Repository Structure
+## 🎬 Quick Glimpse
 
-```
-├── Week 1/
-│   ├── Assignments
-│   └── Notes
-├── Week 2/
-│   ├── Assignments
-│   └── Notes
-...
-├── Week 8/
-│   ├── Assignments
-│   └── Notes
-├── Final Project/
-│   ├── Documentation
-│   ├── Code
-│   └── Presentation
-└── media/
-    ├── celebal_cover.gif
-    └── other resources
-```
+![CSI GIF](./CSI%20GIF.gif)
 
-## 📊 Weekly Progress
+---
 
-### Week 1: Onboarding & Fundamentals
-- [x] Introduction to company tools and workflows
-- [x] Setting up development environment
-- [ ] Completing fundamental assignments
+## 📅 Weekly Progress
 
-### Week 2: Coming Soon...
+| Week | Assignment / Project | Status | Link |
+|------|---------------------|--------|------|
+| 1    | Weekly Assignment 1 | ✅ Done | [Weekly_Assingment_1.py](./Weekly_Assingment_1.py) |
+| 2    | Weekly Assignment 2 | ⏳ Planned | *(coming soon)* |
+| 3    | Weekly Assignment 3 | ⏳ Planned | *(coming soon)* |
+| 4    | Weekly Assignment 4 | ⏳ Planned | *(coming soon)* |
+| 5    | Weekly Assignment 5 | ⏳ Planned | *(coming soon)* |
+| 6    | Weekly Assignment 6 | ⏳ Planned | *(coming soon)* |
+| 7    | Weekly Assignment 7 | ⏳ Planned | *(coming soon)* |
+| 8    | Final Project       | ⏳ Planned | *(coming soon)* |
 
-*More updates will be added as the internship progresses!*
+*Check back for weekly updates!*
 
-## 🏆 Skills I'm Developing
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+## 📝 Why This Repo?
 
-## 📈 Final Project
+This repository will serve as:
+- A transparent record of my learning process.
+- A showcase of the projects and assignments I complete.
+- An inspiration for future interns!
 
-The culmination of this internship will be a comprehensive project demonstrating all the skills and knowledge gained throughout the program. Stay tuned for updates!
+---
 
-## 🏢 About Celebal Technologies
+## 💡 What to Expect
 
-[Celebal Technologies](https://celebaltech.com/) is a leading software company specializing in Data Science, Big Data, and Enterprise Cloud. As a Microsoft Gold Partner, Celebal Technologies provides cutting-edge solutions to clients worldwide.
+- **Python Notebooks & Scripts:** For assignments and projects.
+- **Documentation:** All the steps, thought processes, and resources.
+- **Media:** Visuals, GIFs, reference docs.
 
-## 🔗 Connect With Me
+---
+
+## 📬 Connect with Me
+
 
 Feel free to reach out or follow my journey:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devangbhardwaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devang-bhardwaj)
+
+- [Email](mailto:devangsharma.developer@gmail.com)
+---
+
+> *“Every week is a new opportunity to learn, build, and leave a mark.”*
+
+---
+
+<div align="center">
+  <img src="./CSI LinkedIn Coverpage.jpg" width="60%" alt="Celebal Internship Cover"/>
+</div>
 
 ---
 
