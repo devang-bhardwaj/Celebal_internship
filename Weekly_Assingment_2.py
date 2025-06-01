@@ -23,12 +23,11 @@ class LinkedList:
             print("List is empty!")
             return
         temp = self.head
+        elements = []
         while temp:
-            if temp.next:
-                print(temp.data, end=' -> ')
-            else:
-                print(temp.data)
+            elements.append(str(temp.data))
             temp = temp.next
+        print(" -> ".join(elements))
 
     def delete_nth(self, n):
         if self.head is None:
@@ -87,3 +86,17 @@ mylist.display()
 
 print("Trying to delete from empty list:")
 mylist.delete_nth(1)
+
+# Additional test cases
+print("\nAdding new nodes for more testing:")
+mylist.add(500)
+mylist.add(600)
+mylist.display()
+
+print("Deleting 2nd node:")
+mylist.delete_nth(2)
+mylist.display()
+
+print("Deleting 1st node again:")
+mylist.delete_nth(1)
+mylist.display()
