@@ -25,9 +25,9 @@ This space will be my digital diary, capturing every learning, challenge, and ac
 
 | Week | Assignment / Project | Status | Link |
 |------|---------------------|--------|------|
-| 1    | Weekly Assignment 1 | ✅ Done | [Weekly_Assingment_1.py](./Weekly_Assingment_1.py) |
-| 2    | Weekly Assignment 2 | ✅ Done | [Weekly_Assingment_2.py](./Weekly_Assingment_2.py) |
-| 3    | Weekly Assignment 3 | ✅ Done | [Weekly_Assingment_3.py](./Weekly_Assingment_3/Weekly_Assingment_3.ipynb) |
+| 1    | Weekly Assignment 1 | ✅ Done | [Weekly_Assingment_1](./Weekly_Assingment_1.py) |
+| 2    | Weekly Assignment 2 | ✅ Done | [Weekly_Assingment_2](./Weekly_Assingment_2.py) |
+| 3    | Weekly Assignment 3 | ✅ Done | [Weekly_Assingment_3](./Weekly_Assingment_3/Weekly_Assingment_3.ipynb) |
 | 4    | Weekly Assignment 4 | ⏳ Planned | *(coming soon)* |
 | 5    | Weekly Assignment 5 | ⏳ Planned | *(coming soon)* |
 | 6    | Weekly Assignment 6 | ⏳ Planned | *(coming soon)* |
