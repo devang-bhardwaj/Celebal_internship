@@ -1,6 +1,6 @@
 # 🚀 My Celebal Technologies Internship Journey
 
-![Celebal LinkedIn Cover](./CSI%20LinkedIn%20Coverpage.jpg)
+![Celebal LinkedIn Cover](./Other/CSI%20LinkedIn%20Coverpage.jpg)
 
 Welcome to my **Celebal Technologies Internship** repository!  
 This space will be my digital diary, capturing every learning, challenge, and accomplishment during my **8-week internship** at Celebal Technologies.
@@ -17,7 +17,7 @@ This space will be my digital diary, capturing every learning, challenge, and ac
   - Final Project  
   - Notes, insights, and more!
 - **Reference:**  
-  - [My Offer Letter (PDF)](./Devang%20Bhardwaj's%20Offer%20letter.pdf)
+  - [My Offer Letter (PDF)](./Other/Devang%20Bhardwaj's%20Offer%20letter.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ Feel free to reach out or follow my journey:
 ---
 
 <div align="center">
-  <img src="./CSI%20GIF.gif" width="50%" alt="CSI GIF"/>
+  <img src="./Other/CSI%20GIF.gif" width="50%" alt="CSI GIF"/>
 </div>
 
 ---
