@@ -6,8 +6,8 @@ Welcome to my comprehensive **Celebal Technologies Internship Portfolio**! This 
 
 ## � Internship Documentation
 
-- **[Offer Letter](resources/Devang Bhardwaj's Offer letter.pdf)** - Official internship offer
-- **[Completion Certificate](resources/Devang Bhardwaj's completion certificate.pdf)** - Internship completion certificate
+- **[Offer Letter](resources/Devang%Bhardwaj's%Offer%letter.pdf)** - Official internship offer
+- **[Completion Certificate](resources/Devang%Bhardwaj's%completion%certificate.pdf)** - Internship completion certificate
 
 ## �📋 Repository Structure
 
