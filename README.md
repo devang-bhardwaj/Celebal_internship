@@ -4,10 +4,10 @@
 
 Welcome to my comprehensive **Celebal Technologies Internship Portfolio**! This repository documents my complete 8-week journey as a Data Science Intern, featuring all assignments, projects, and a culminating Plant Pathogen Analysis project.
 
-## � Internship Documentation
+## 🎓 Internship Documentation
 
-- **[Offer Letter](resources/offer_letter.pdf)** - Official internship offer
-- **[Completion Certificate](resources/completion_certificate.pdf)** - Internship completion certificate
+- **[Offer Letter](resources/Devang%20Bhardwaj's%20Offer%20letter.pdf)** - Official internship offer
+- **[Completion Certificate](resources/Completion%20Certificate.pdf)** - Internship completion certificate
 
 ## �📋 Repository Structure
 
