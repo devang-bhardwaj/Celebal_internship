@@ -1,0 +1,25 @@
+# This is a CODEOWNERS file to define individuals or teams responsible for code in this repository.
+
+# Default owners for everything in the repo
+* @your-github-username
+
+# Week-specific assignments
+/Week_01_Assignment/ @your-github-username
+/Week_02_Assignment/ @your-github-username
+/Week_03_Assignment/ @your-github-username
+/Week_04_Assignment/ @your-github-username
+/Week_05_Assignment/ @your-github-username
+/Week_06_Assignment/ @your-github-username
+/Week_07_Assignment/ @your-github-username
+/Week_08_Assignment/ @your-github-username
+
+# Documentation files
+*.md @your-github-username
+
+# Python files
+*.py @your-github-username
+*.ipynb @your-github-username
+
+# Project configuration
+requirements.txt @your-github-username
+setup.py @your-github-username
