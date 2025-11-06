@@ -1,41 +1,103 @@
-# 🚀 My Celebal Technologies Internship Journey
+# 🚀 Celebal Technologies Data Science Internship Portfolio
 
-![Celebal LinkedIn Cover](./Other/CSI%20LinkedIn%20Coverpage.jpg)
+![Celebal Banner](resources/CSI%20LinkedIn%20Coverpage.jpg)
 
-Welcome to my **Celebal Technologies Internship** repository!  
-This space will be my digital diary, capturing every learning, challenge, and accomplishment during my **8-week internship** at Celebal Technologies.
+Welcome to my comprehensive **Celebal Technologies Internship Portfolio**! This repository documents my complete 8-week journey as a Data Science Intern, featuring all assignments, projects, and a culminating Plant Pathogen Analysis project.
+
+## 📋 Repository Structure
+
+```
+Celebal_internship/
+├── Week_01_Assignment/      # Python Basics
+├── Week_02_Assignment/      # Python Intermediate
+├── Week_03_Assignment/      # Data Analysis
+├── Week_04_Assignment/      # ML/Data Science
+├── Week_05_Assignment/      # Advanced ML
+├── Week_06_Assignment/      # Theory Week
+├── Week_07_Assignment/      # Plant Pathology Analysis
+├── Week_08_Assignment/      # RAG Chatbot Development
+├── Final_Project/          # Plant Pathogen Analysis
+└── resources/              # Images and Documents
+```
+
+## � Weekly Progress
+
+| Week | Topic | Technologies | Status | Link |
+|------|-------|--------------|---------|------|
+| 1 | Python Basics | Python, Basic Programming | ✅ Complete | [Week 1](Week_01_Assignment/) |
+| 2 | Python Intermediate | Python, Functions, OOP | ✅ Complete | [Week 2](Week_02_Assignment/) |
+| 3 | Data Analysis | Pandas, NumPy, Matplotlib | ✅ Complete | [Week 3](Week_03_Assignment/) |
+| 4 | ML/Data Science | scikit-learn, Pandas | ✅ Complete | [Week 4](Week_04_Assignment/) |
+| 5 | Advanced ML | Advanced ML Models | ✅ Complete | [Week 5](Week_05_Assignment/) |
+| 6 | Theory Week | ML Theory Documentation | 📚 Theory | [Week 6](Week_06_Assignment/) |
+| 7 | Plant Pathology | ResNet50, PyTorch | ✅ Complete | [Week 7](Week_07_Assignment/) |
+| 8 | RAG Chatbot | NLP, Transformers | ✅ Complete | [Week 8](Week_08_Assignment/) |
+| Final | Plant Pathogen Analysis | Deep Learning, ResNet50 | 🌟 Complete | [Final Project](Final_Project/) |
+
+## 🌟 Final Project: Plant Pathogen Analysis
+
+The internship culminated in a comprehensive Plant Pathogen Analysis and Prediction system that combines:
+
+- Deep Learning implementation using ResNet50
+- Traditional ML models for comparison
+- Detailed analysis and visualization
+- Interactive prediction system
+
+### Key Features
+- Multi-class pathogen classification
+- High accuracy predictions
+- Comparative model analysis
+- Detailed visualization of results
+
+## 💻 Technologies Used
+
+- **Programming:** Python, Jupyter Notebooks
+- **ML/DL:** TensorFlow, PyTorch, scikit-learn
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **NLP:** NLTK, Transformers
+- **Other:** Git, Markdown
+
+## 🚀 How to Navigate
+
+1. Each week's folder contains:
+   - README with detailed explanation
+   - Assignment notebooks/scripts
+   - Data files (if applicable)
+   - Requirements (if needed)
+
+2. To run any notebook:
+   ```bash
+   cd Week_XX_Assignment
+   jupyter notebook notebook_name.ipynb
+   ```
+
+3. For the Final Project:
+   ```bash
+   cd Final_Project
+   jupyter notebook plant-pathology-dl-model-implementation.ipynb
+   ```
+
+## 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/devangbhardwaj/)
+- [GitHub](https://github.com/devang-bhardwaj)
+- [Email](mailto:devangsharma.developer@gmail.com)
+
+## 🙏 Acknowledgments
+
+Special thanks to:
+- Celebal Technologies for this opportunity
+- My mentors and supervisors
+- The entire Celebal team
 
 ---
 
-## 🌟 About This Repo
-
-- **Internship Duration:** 2 months (8 weeks)
-- **Organization:** [Celebal Technologies](https://www.celebaltech.com/)
-- **Role:** Intern
-- **Contents:**  
-  - Weekly Assignments  
-  - Final Project  
-  - Notes, insights, and more!
-- **Reference:**  
-  - [My Offer Letter (PDF)](./Other/Devang%20Bhardwaj's%20Offer%20letter.pdf)
-
----
-
-## 📅 Weekly Progress
-
-| Week | Assignment / Project | Status | Link |
-|------|---------------------|--------|------|
-| 1    | Weekly Assignment 1 | ✅ Done | [Weekly_Assingment_1](./Weekly_Assingment_1.py) |
-| 2    | Weekly Assignment 2 | ✅ Done | [Weekly_Assingment_2](./Weekly_Assingment_2.py) |
-| 3    | Weekly Assignment 3 | ✅ Done | [Weekly_Assingment_3](./Weekly_Assingment_3/Weekly_Assingment_3.ipynb) |
-| 4    | Weekly Assignment 4 | ✅ Done | [Weekly_Assingment_4](./Weekly_Assingment_4/Celebal_Weekly_Assingment_4.ipynb) |
-| 5    | Weekly Assignment 5 | ⏳ Planned | *(coming soon)* |
-| 6    | Weekly Assignment 6 | ⏳ Planned | *(coming soon)* |
-| 7    | Weekly Assignment 7 | ⏳ Planned | *(coming soon)* |
-| 8    | Weekly Assingment 8 | ⏳ Planned | *(coming soon)* |
-| 9    | Final Project       | ⏳ Planned | *(coming soon)* |
-
-*Check back for weekly updates!*
+<div align="center">
+  <img src="resources/CSI%20GIF.gif" width="50%" alt="Celebal Technologies"/>
+  <p><i>Last Updated: November 6, 2025</i></p>
+  <p><i>© 2025 Devang Bhardwaj. All rights reserved.</i></p>
+</div>
 
 ---
 
